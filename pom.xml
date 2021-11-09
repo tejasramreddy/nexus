@@ -48,7 +48,7 @@
 </repository>
 <snapshotRepository>	
 <id>snapshots</id>
-<url>http://18.190.28.124:8081/repository/snapshots/
+<url>http://3.16.54.70:8081/repository/snapshots/
 </url>
 </snapshotRepository>
 </distributionManagement>
